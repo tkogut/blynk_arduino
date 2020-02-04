@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\tkogut\\Documents\\Arduino\\libraries\\ConnectThings_ESP8266\\src",
+                "C:\\Users\\tkogut\\Documents\\Arduino\\libraries\\Blynk\\src",
+                "D:\\Arduino\\tools\\**",
+                "D:\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\tkogut\\Documents\\ArduinoData\\libraries\\**",
+                "C:\\Users\\tkogut\\Documents\\ArduinoData\\libraries\\BlynkESP8266_Lib\\ESP8266_Lib.h"
+            ],
+            "forcedInclude": [
+                "D:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Users\\tkogut\\Documents\\ArduinoData\\libraries\\BlynkESP8266_Lib\\ESP8266_Lib.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
